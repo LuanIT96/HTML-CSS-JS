@@ -1,0 +1,43 @@
+{
+	"store": 
+	[
+  		{
+  			"name":"windows 7", "imageUrl":"images/windows7.jpg", 
+  			"linkUrl":"https://bitly.com.vn/6ssk8f"
+  		},
+  		{
+  			"name":"windows 8.1", "imageUrl":"images/windows81.jpg", 
+  			"linkUrl":"https://bitly.com.vn/b6gqab"
+  		},
+  		{
+  			"name":"windows 10", "imageUrl":"images/windows10.jpeg", 
+  			"linkUrl":"https://bitly.com.vn/ufzag7"
+  		},
+  		{
+  			"name":"ampe usb boot", "imageUrl":"images/aomei-pe-builder.jpg", 
+  			"linkUrl":"https://thanhluan.cf"
+  		}
+	],
+
+	"imageMe": 
+	[
+  		{
+  			"name":"avatar", "imageUrl":"images/avatar.jpg"
+  		},
+  		{
+  			"name":"avatar2", "imageUrl":"images/avatar2.jpg"
+  		},
+  		{
+  			"name":"avatar3", "imageUrl":"images/avatar3.jpg"
+  		},
+  		{
+  			"name":"avatar4", "imageUrl":"images/avatar4.jpg"
+  		},
+  		{
+  			"name":"avatar5", "imageUrl":"images/avatar5.jpg"
+  		},
+  		{
+  			"name":"avatar6", "imageUrl":"images/avatar6.jpg"
+  		}
+	]
+}
